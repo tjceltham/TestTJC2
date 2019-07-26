@@ -7,6 +7,7 @@ namespace TestTJC
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World TC!");
+            Console.WriteLine("fghj");
         }
     }
 }
